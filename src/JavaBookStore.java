@@ -35,7 +35,7 @@ public class JavaBookStore {
 		System.out.println("Prezzo: "+prezzo);
 		System.out.println("Numero Edizione : "+numEdizione);
 		System.out.println("Editore : "+editore);
-		System.out.println("Autore : "+sconto+"%");
+		System.out.println("Sconto : "+sconto+"%");
 		System.out.println("Disponibile : "+disponibile);
 		System.out.println();
 		System.out.println("Prezzo Risparmiato: "+prezzoRisparmiato);
